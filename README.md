@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi there! <br>I'm Angelica, an inspiring software engineer in Italy.<br>I recently graduated in Computer Engineering and I will start my master's degree in September 2025.<br>In the meantime I make projects for myself and to improve my skills<br>.<br><br><br>Outside of work, I'm interested in the developments of science. 
+Hi there! <br>I'm Angelica, an inspiring software engineer in Italy.<br>I recently graduated in Computer Engineering and I will start my master's degree in September 2025.<br>In the meantime I make projects for myself and to improve my skills.<br>.<br>Outside of university, I'm interested in the developments of science. 
  
 
 # 💻 Tech Stack:
